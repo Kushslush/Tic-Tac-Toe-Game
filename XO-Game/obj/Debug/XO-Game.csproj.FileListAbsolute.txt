@@ -1,0 +1,10 @@
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\bin\Debug\XO-Game.exe.config
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\bin\Debug\XO-Game.exe
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\bin\Debug\XO-Game.pdb
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO-Game.csprojAssemblyReference.cache
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO_Game.GameBoard.resources
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO-Game.csproj.GenerateResource.cache
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO-Game.csproj.CoreCompileInputs.cache
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO-Game.exe
+C:\Users\Кушающий\Desktop\XO-Game\XO-Game\XO-Game\obj\Debug\XO-Game.pdb
